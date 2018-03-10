@@ -8,7 +8,6 @@ module.exports = {
     },
     plugins: [
         "babel",
-        "jest",
         "import"
     ],
     globals: {
