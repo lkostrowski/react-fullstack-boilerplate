@@ -43,7 +43,7 @@ export default class Document extends Document_ {
                     <meta name="viewport" content="initial-scale=1.0, width=device-width" />
                     <meta charSet="utf-8" />
                     <style dangerouslySetInnerHTML={{ __html: this.props.css }} />
-                    <title>nTitle</title>
+                    <title>Page</title>
                     {/*<link rel="shortcut icon" href="/static/favicon.ico" />*/}
                     <base href="/" />
                 </Head>

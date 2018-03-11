@@ -1,4 +1,3 @@
-const defaultWebpack = require('./webpack.config.default');
 const BabiliPlugin = require('babili-webpack-plugin');
 const Dotenv = require('dotenv-webpack');
 
